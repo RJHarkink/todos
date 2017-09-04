@@ -1,0 +1,2 @@
+# todos
+arranging my thoughts
